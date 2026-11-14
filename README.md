@@ -1,4 +1,4 @@
-# Plague Watch (early trial 0.3)
+# Plague Watch (early trial 0.3.1)
 
 A co-op game for 1 to 4 players. You are the last town guards in a plagued medieval town. By day you search the villagers for hidden bites, lock up the bitten, feed the town and bar the doors. By night the dead come at the gates in waves and you hold the town until dawn.
 
@@ -39,7 +39,7 @@ Everyone else:
 
 Good to know:
 
-- Everyone must run the same build. The build number is on the front menu (this one is 0.3). A guest on another build is told so and turned away.
+- Everyone must run the same build. The build number is on the front menu (this one is 0.3.1). A guest on another build is told so and turned away.
 - The run does not begin until every guest has loaded.
 
 ## Your first day
